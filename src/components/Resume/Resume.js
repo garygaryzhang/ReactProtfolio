@@ -42,6 +42,20 @@ function Resume() {
           <Col md={6} className="resume-left">
             <h3 className="resume-title">Experience</h3>
             <Resumecontent
+              companyInfo="Alliance Bernstein - Nashville, TN, USA"
+              title="Software Developer"
+              date="November 2021 - Current"
+              content={[
+                "ERP Applications on Desktop/Mobile/Tablet/Web Service Integration/Windows Service.",
+                "Developing, implementing and maintaining a windows desktop, service application: MerchantAg and MerchantSRV, primarily developed in .NET 4.8 and Microsoft SQL Server 2017.",
+                "Developing, implementing and maintaining an Android, iOS and UWP mobile application: MagMobile, developed in Xamarin 5.0.0 and Asp.Net WebApi 5.2.7.",
+                "Developing, implementing and maintaining an UWP application: MagExpress, developed in UWP 1.21.0 and Entity Framework Core 1.1.1.",
+                "Developing, implementing and maintaining public, internal APIs and APIs for third party integrations, primarily developed in Asp.Net Core 2.0.2.",
+                "Designing and Building Windwos Forms, mobile UI and Xaml Forms using infragistics UltimateUI for Windows Forms Xamarin Forms and WPF as UI layer/view.",
+                "Creating business logic, DTOs using C#, LINQ and SQL.",
+              ]}
+            />
+            <Resumecontent
               companyInfo="EFC Systems Inc - Brentwood, TN, USA"
               title="Software Developer"
               date="August 2017 - Current"
