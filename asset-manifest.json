@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/ReactProtfolio/static/css/main.3dc18c4f.chunk.css",
+    "main.js": "/ReactProtfolio/static/js/main.29a9f0ff.chunk.js",
+    "main.js.map": "/ReactProtfolio/static/js/main.29a9f0ff.chunk.js.map",
+    "runtime-main.js": "/ReactProtfolio/static/js/runtime-main.c4355c61.js",
+    "runtime-main.js.map": "/ReactProtfolio/static/js/runtime-main.c4355c61.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/ReactProtfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2f88bdee.chunk.js": "/ReactProtfolio/static/js/2.2f88bdee.chunk.js",
+    "static/js/2.2f88bdee.chunk.js.map": "/ReactProtfolio/static/js/2.2f88bdee.chunk.js.map",
+    "static/js/3.4f0d8eff.chunk.js": "/ReactProtfolio/static/js/3.4f0d8eff.chunk.js",
+    "static/js/3.4f0d8eff.chunk.js.map": "/ReactProtfolio/static/js/3.4f0d8eff.chunk.js.map",
+    "index.html": "/ReactProtfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/ReactProtfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.3dc18c4f.chunk.css.map": "/ReactProtfolio/static/css/main.3dc18c4f.chunk.css.map",
+    "static/js/2.2f88bdee.chunk.js.LICENSE.txt": "/ReactProtfolio/static/js/2.2f88bdee.chunk.js.LICENSE.txt",
+    "static/media/Angular.922931ca.gif": "/ReactProtfolio/static/media/Angular.922931ca.gif",
+    "static/media/Resume.8f6c4d8a.pdf": "/ReactProtfolio/static/media/Resume.8f6c4d8a.pdf",
+    "static/media/StudentManagement.1ee1d440.gif": "/ReactProtfolio/static/media/StudentManagement.1ee1d440.gif",
+    "static/media/aboutbulb.7d32af20.png": "/ReactProtfolio/static/media/aboutbulb.7d32af20.png",
+    "static/media/android.ef2e90e1.gif": "/ReactProtfolio/static/media/android.ef2e90e1.gif",
+    "static/media/datamining.94e6dfae.gif": "/ReactProtfolio/static/media/datamining.94e6dfae.gif",
+    "static/media/gary.05bda644.png": "/ReactProtfolio/static/media/gary.05bda644.png",
+    "static/media/me.aec87eed.jpg": "/ReactProtfolio/static/media/me.aec87eed.jpg",
+    "static/media/planet.e4ed83af.png": "/ReactProtfolio/static/media/planet.e4ed83af.png",
+    "static/media/style.css": "/ReactProtfolio/static/media/rings.f85f7656.svg",
+    "static/media/turing.d9fbfbcd.gif": "/ReactProtfolio/static/media/turing.d9fbfbcd.gif",
+    "static/media/xamarin.63eaaa56.gif": "/ReactProtfolio/static/media/xamarin.63eaaa56.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4355c61.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2f88bdee.chunk.js",
+    "static/css/main.3dc18c4f.chunk.css",
+    "static/js/main.29a9f0ff.chunk.js"
+  ]
+}
