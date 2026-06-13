@@ -4,7 +4,11 @@ import { Row } from "react-bootstrap";
 
 function Github() {
   const colourTheme = {
-    dark: ["#d9f2fc", "#84adf5", "#6576f6", "#2f36f4", "#0028b8"],
+    level0: "#d9f2fc",
+    level1: "#84adf5",
+    level2: "#6576f6",
+    level3: "#2f36f4",
+    level4: "#0028b8",
   };
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
@@ -17,7 +21,6 @@ function Github() {
         blockMargin={5}
         theme={colourTheme}
         fontSize={16}
-        colorScheme="dark"
       />
     </Row>
   );
