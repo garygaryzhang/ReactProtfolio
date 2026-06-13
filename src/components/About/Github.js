@@ -4,13 +4,7 @@ import { Row } from "react-bootstrap";
 
 function Github() {
   const colourTheme = {
-    background: "transparent",
-    text: "#ffffff",
-    grade4: "#0028b8",
-    grade3: "#2f36f4",
-    grade2: "#6576f6",
-    grade1: "#84adf5",
-    grade0: "#d9f2fc",
+    dark: ["#d9f2fc", "#84adf5", "#6576f6", "#2f36f4", "#0028b8"],
   };
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
@@ -23,6 +17,7 @@ function Github() {
         blockMargin={5}
         theme={colourTheme}
         fontSize={16}
+        colorScheme="dark"
       />
     </Row>
   );
